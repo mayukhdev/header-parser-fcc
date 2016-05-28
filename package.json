@@ -1,0 +1,23 @@
+{
+  "name": "header-parser-fcc",
+  "version": "1.0.0",
+  "description": "freecodecamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayukhdev/header-parser-fcc.git"
+  },
+  "author": "Mayukh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayukhdev/header-parser-fcc/issues"
+  },
+  "homepage": "https://github.com/mayukhdev/header-parser-fcc#readme",
+
+  "dependencies": {
+    "express": "*"
+  }
+}
